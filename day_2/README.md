@@ -1,1 +1,1 @@
-#This is random hex color Generator
+# This is random hex color Generator
