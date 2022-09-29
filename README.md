@@ -1,2 +1,2 @@
 # javascript-projects
-this is 100-days javascript challenge
+**this is 100-days javascript challenge**
